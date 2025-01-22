@@ -634,7 +634,7 @@ body {
     }
 
     .featured-story {
-        grid-column: 1 / -1;
+        display: none;
     }
 
     .story-card {
