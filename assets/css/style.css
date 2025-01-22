@@ -428,7 +428,7 @@ body {
 
 @media (max-width: 768px) {
     .curriculum-container {
-        max-width: 86%;
+        width: 90%;
         padding: 20px;
     }
 
@@ -611,7 +611,7 @@ body {
 
 @media (max-width: 768px) {
     .stories-container {
-        max-width: 86%;
+        width: 90%;
         padding: 20px;
     }
 
