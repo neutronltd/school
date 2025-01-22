@@ -260,7 +260,7 @@ body {
         gap: 20px;
         align-items: center;
         text-align: center;
-        padding: 30px;
+        padding: 20px;
     }
 
     .content-wrapper {
@@ -429,7 +429,7 @@ body {
 @media (max-width: 768px) {
     .curriculum-container {
         max-width: 86%;
-        padding: 30px;
+        padding: 20px;
     }
 
     .curriculum-title {
@@ -612,7 +612,7 @@ body {
 @media (max-width: 768px) {
     .stories-container {
         max-width: 86%;
-        padding: 30px;
+        padding: 20px;
     }
 
     .stories-title {
